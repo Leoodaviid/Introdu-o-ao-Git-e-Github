@@ -2,7 +2,7 @@
 
 
 
-![git hub](https://miro.medium.com/max/1400/1*dDNpLKu_oTLzStsDTnkJ-g.png)
+![git hub](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
 
 
 
