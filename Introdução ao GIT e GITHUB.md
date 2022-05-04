@@ -58,7 +58,7 @@ O desenvolvimento de um site, por exemplo, será facilitado se todos os desenvol
 
 O GitHub também ajuda a melhorar o gerenciamento do projeto, acompanhar o seu desenvolvimento e entender as atividades de cada pessoa envolvida. 
 
-Outra funcionalidade que ajuda a aumentar a importância do sistema é a sua [automatização ](https://enotas.com.br/blog/tendencias-da-tecnologia-para-automatizacao/)no fluxo de trabalho. 
+Outra funcionalidade que ajuda a aumentar a importância do sistema é a sua automatização fluxo de trabalho. 
 
 Tudo isso ajuda o desenvolvimento do projeto e pode ser um diferencial no mercado, já que ele está cada vez maior e com maior concorrência, com novas possibilidades tecnológicas.
 
