@@ -92,7 +92,7 @@ Além destas, outras funcionalidades ajudam na praticidade do GitHub, como a pos
 
 
 
-A [linguagem ](https://enotas.com.br/blog/linguagens-de-programacao/)de alguns termos desse universo é muito própria que, para quem não está habituado, pode gerar confusões. 
+A  linguagem alguns termos desse universo é muito própria que, para quem não está habituado, pode gerar confusões. 
 
 Por isso, siga um pequeno glossário dos principais termos que você encontra quando for usar o Github.
 
