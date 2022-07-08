@@ -91,7 +91,7 @@ Se você ainda não tiver nenhum arquivo nessa pasta, crie algum para continuar 
 
 
 
-- Agora a última etapa do fluxo é enviar o(s) arquivo(s) ao repositório remoto. Se você ainda não tem, crie um repositório remoto, pode ser no GitHub, GitLab ou qualquer outro de sua preferência.
+- Agora a última etapa do fluxo é o(s) arquivos(s) enviar ao passado remoto. Se você ainda não tem, crie um repositório remoto, pode ser no GitHub, GitLab ou qualquer outro de sua preferencia.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/104696611/166853796-f9f1a067-0791-488b-9bca-4fc1462db5b7.png)
 
