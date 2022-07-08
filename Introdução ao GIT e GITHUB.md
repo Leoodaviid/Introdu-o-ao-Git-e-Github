@@ -6,7 +6,7 @@
 
 
 
-### Menu
+###   Lista
 
 - Git
 
@@ -14,7 +14,7 @@
 
 - Importância do GitHUb
 
-- Para que serve
+- Qual sua funcionalidade
 
 - Linguagens 
 
@@ -64,7 +64,7 @@ Tudo isso ajuda o desenvolvimento do projeto e pode ser um diferencial no mercad
 
 
 
-# Para que serve?
+# Qual sua funcionalidade?
 
 Na prática, o GitHub tem algumas funcionalidades que, aliás, o diferenciam muito do Git. 
 
