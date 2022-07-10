@@ -1,4 +1,4 @@
-<h3 align="center">Introdução básica as funcionalidades do Git e GITHUB</h3>
+<h3 align="center">Introdução básica das funcionalidades do Git e GITHUB</h3>
 
 ---
 
